@@ -5,10 +5,10 @@
 title:               따라쟁이의 블로그
 
 # The unique resource location of your page.
-# Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://<username>.github.io
+# Set to `https://hyojukim815.github.io` when hosting on GitHub Pages
+url:                 https://hyojukim815.github.io
 
-# Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
+# Set to '' when hosting a blog on GitHub Pages, ie on `//hyojukim815.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
 baseurl:             ""
 
