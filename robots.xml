@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+disallow:/temp/
 
-Sitemap: http://khw11044.github.io/sitemap.xml
+Sitemap: https://hyojukim815.github.io/sitemap.xml

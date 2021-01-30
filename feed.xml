@@ -28,3 +28,9 @@ layout: null
     {% endfor %}
   </channel>
 </rss>
+3. robots.txt 또는 robots.xml
+
+User-agent: *
+Allow: /
+
+Sitemap: http://khw11044.github.io/sitemap.xml
